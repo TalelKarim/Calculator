@@ -1,0 +1,7 @@
+bouton CE: #498efa   ---- ktiba: #06305f
+C: #f94b48     --- ktiba :#0a2e61
+calculatrice body : #f2f2f2
+bouton + : #46fb75  ---- ktiba:#06405b  
+bouton = : #f9e949    --ktiba : #12375e
+all other buttons : #ffffff   --ktiba : #063061   --border : #46617e
+ecran : #ffffff  -- ktiba : #465674   border : #33496b
