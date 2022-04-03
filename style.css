@@ -53,9 +53,12 @@ body{
     align-items: center;
 }
 
-.ecran p{
+.ecran {
     font-size: 1.8em;
     margin-right: 8px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding-right: 8px;
 }
 .buttons{
     width: 90%;
